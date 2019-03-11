@@ -1,0 +1,24 @@
+Qn 2 a),,,,,
+Which month has the highest sales?,,,,,
+ Is there any seasonality effect?,,,,,
+,,,,,
+Queried from Qn 2 Part 1.sql,,,,,
+months,2014,2015,2016,2017,Total in Months
+1,"14,236.90","18,174.08","18,542.49","43,971.37","94,924.84"
+2,"4,519.89","11,951.41","22,978.82","20,301.13","59,751.25"
+3,"55,691.01","38,726.25","51,715.88","58,872.35","205,005.49"
+4,"28,295.35","34,195.21","38,750.04","36,521.54","137,762.13"
+5,"23,648.29","30,131.69","56,987.73","44,261.11","155,028.81"
+6,"34,595.13","24,797.29","40,344.53","52,981.73","152,718.68"
+7,"33,946.39","28,765.33","39,261.96","45,264.42","147,238.10"
+8,"27,909.47","36,898.33","31,115.37","63,120.89","159,044.06"
+9,"81,777.35","64,595.92","73,410.02","87,866.65","307,649.95"
+10,"31,453.39","31,404.92","59,687.75","77,776.92","200,322.98"
+11,"78,628.72","75,972.56","79,411.97","118,447.83","352,461.07"
+12,"69,545.62","74,919.52","96,999.04","83,829.32","325,293.50"
+,,,,,
+Answer:,,,,,
+"Based on the above table on total 4 years of data, November was the month with the highest sales.",,,,,
+"Based on the chart above, we can see that the trend generally increased over 1 year, regardless any year. ",,,,,
+Hence it shows that the consumers prefer to purchase or spend during the end of the year.,,,,,
+That could also due to promotions or festive seasons that moved consumers in purchase in bigger quantities. ,,,,,
