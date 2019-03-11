@@ -8,7 +8,9 @@ Question 1:
 2. Qn 1 result.csv - csv file containing the results
 
 Question 2:
+
 3. Qn 2 import data.sql - scripts containing the import of data
+
 4. Qn 2 part 1 query - script that run to understand the highest sales and  seasonality
 5. Qn 2 part 1 result - csv file containing the results for part 1
 6. Qn 2 part 2 query - script that run to identify the best seller
